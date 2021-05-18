@@ -1,0 +1,19 @@
+table,
+th,
+td {
+    border: 2px solid dimgray;
+    border-collapse: collapse;
+    color: darkviolet;
+}
+table {
+    width: 100%;
+}
+th {
+    height: 70px;
+}
+td {
+    padding: 20px;
+}
+.name {
+    text-align:center;
+}
