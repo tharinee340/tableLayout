@@ -12,3 +12,9 @@ table {
 th {
     height: 70px;
 }
+
+div {
+    border: 1px solid;
+    margin: 10px;
+    text-align: center;
+}
