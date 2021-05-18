@@ -13,8 +13,10 @@ th {
     height: 70px;
 }
 
-div {
-    border: 1px solid;
-    margin: 10px;
-    text-align: center;
+td {
+    padding: 10px;
+}
+
+.table_style {
+    color: red;
 }
